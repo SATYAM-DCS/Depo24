@@ -9,7 +9,7 @@ Nodejs, Express, MongoDB, PDFKIT,POSTMAN
 
 # check ON POSTMAN
 
-localhost:3000/api/
-localhost:3000/api/add-product
-localhost:3000/api/create-invoice
+# localhost:3000/api/,
+# localhost:3000/api/add-product,
+# localhost:3000/api/create-invoice,
 
